@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "151",
+      "id": 4
+    },
+    {
+      "name": "mouse",
+      "price": "70",
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 6
+    },
+    {
+      "name": "Matheus",
+      "price": "151",
+      "id": 7
+    },
+    {
+      "name": "lapis",
+      "price": "5,00",
+      "id": 8
+    },
+    {
+      "name": "d",
+      "price": "3",
+      "id": 9
+    }
+  ]
+}
