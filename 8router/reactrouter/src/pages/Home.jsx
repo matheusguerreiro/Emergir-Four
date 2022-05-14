@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 import { useFetch } from '../hooks/useFetch'
 
 import './Home.css'
@@ -17,7 +17,7 @@ const Home = () => {
             <h3>{item.name}</h3>
             <p>R${item.price}</p>
             {/* rota dinâmica */}
-            <Link to={`/products/${item.id}`}>Detalhes</Link>
+            <NavLink to={`/products/${item.id}`}>Detalhes</NavLink>
           </li>
         ))}
       </ul>
