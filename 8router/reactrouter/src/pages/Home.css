@@ -1,0 +1,18 @@
+.h {
+  text-align: center;
+}
+
+.h ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.h ul li {
+  border: 1px solid #efefef;
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+  list-style: none;
+  width: 25%;
+}

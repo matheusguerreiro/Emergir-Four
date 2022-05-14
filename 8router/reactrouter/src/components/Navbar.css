@@ -1,0 +1,26 @@
+.nb {
+  background-color: darkgray;
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+}
+
+.nb a {
+  text-decoration: none;
+  color: black;
+  padding: 8px;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: aquamarine;
+}
+.nb a:hover {
+  background-color: blue;
+  color: white;
+  border-color: white;
+}
+
+.nb .active {
+  background-color: yellow;
+  color: black;
+  border: 1px solid black;
+}
